@@ -1,6 +1,6 @@
 # Simple Starter Kit
 
-A simple starter kit for HTML, CSS & JS prototyping.
+A simple starter kit for HTML, CSS & JS prototyping & tutorials @ [HowToCode.io](https://howtocode.io)
 
 ## Includes
 
