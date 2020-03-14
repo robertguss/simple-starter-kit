@@ -1,0 +1,12 @@
+{
+  "name": "simple-starter-kit",
+  "version": "1.0.0",
+  "description": "A simple starter kit for HTML, CSS & JS prototyping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
